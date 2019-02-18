@@ -1,5 +1,5 @@
 :launchURL: https://developers.redhat.com/launch
-
+test
 = Fuse Aggregation
 
 The booster demonstrates how to aggregate JSON data from 2 services using Camel. 
